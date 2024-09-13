@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class InputEx {
+public class InputEx2 {
   public static void main(String[] args) throws IOException{
     // int i = 10;
 
@@ -24,22 +24,22 @@ public class InputEx {
     // System.out.println(message);
 
 
-    int kor = 90,  math = 80;
-    int sum = 0;
+    // int kor = 90,  math = 80;
+    // int sum = 0;
     
-    kor = 10;
-    kor = kor + kor;
-    System.out.println("총점 : " + kor);
+    // kor = 10;
+    // kor = kor + kor;
+    // System.out.println("총점 : " + kor);
     
-    kor = 10;
-    kor += kor;
-    System.out.println("총점 : " + kor);
+    // kor = 10;
+    // kor += kor;
+    // System.out.println("총점 : " + kor);
 
-    kor = kor + 1;
-    --kor;
-    kor++;
+    // kor = kor + 1;
+    // --kor;
+    // kor++;
 
-    String res;
-    res = (kor > 90) ? "합격" : "탈락";
+    // String res;
+    // res = (kor > 90) ? "합격" : "탈락";
   }
 }

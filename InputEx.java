@@ -1,5 +1,5 @@
 import java.io.IOException;
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class InputEx {
   public static void main(String[] args) throws IOException {
@@ -18,8 +18,8 @@ public class InputEx {
     // String message = sc.nextLine();
     // System.out.println(message);
 
-    int kor = 90, math = 80;
-    int sum = 0;
+    // int kor = 90, math = 80;
+    // int sum = 0;
 
     // kor = 10;
     // kor = kor + kor;
@@ -34,8 +34,17 @@ public class InputEx {
     // kor++;
     // System.out.println("총점 : " + kor);
 
-    String res;
-    res = (kor > 90) ? "수":"미";
+    // String res;
+    // res = (kor > 90) ? "수":"미";
+
+    // Info in = new Info();
+
+    // in.name = "김강사";
+    // in.age = 25;
+
+    // System.out.println("이름 : "+ in.name);
+    // System.out.println("나이 : "+ in.age +"살");
+
 
   }
 }
